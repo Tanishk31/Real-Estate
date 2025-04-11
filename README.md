@@ -28,18 +28,4 @@ This is a full-stack web application for real estate listings built using the ME
 5. Set up environment variables: Create a `.env` file in the root directory and add required variables (e.g., MongoDB connection URI, JWT secret, OAuth credentials).
 6. Start the development server: `npm run dev`
 
-## Usage
-- Visit the deployed application: [Live Demo](https://evans-mern-real-estate.onrender.com)
-- Sign up for a new account or use OAuth to sign in.
-- Browse, search, and filter property listings.
-- Add, edit, or delete listings via the admin dashboard (accessible to administrators only).
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for review.
-
-
-## Author
-- [Evans Kupour](https://github.com/Doheera-kosi)
-
-## Contact
-For inquiries, suggestions, or issues, please contact [Evans Kupour](mailto:kupourevans99@.com).
